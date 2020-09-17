@@ -1,7 +1,7 @@
 /*Multiply two 4096 by 4096 matrices*/
 #include <stdio.h>
 #include <stdlib.h>
-#define N 2048
+#define N 4096
 
 void generate_random_matrix(int mat[][N]);
 
